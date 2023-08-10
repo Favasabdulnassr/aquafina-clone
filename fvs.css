@@ -1,0 +1,258 @@
+.header{
+    background-color:rgb(0, 71, 186);
+    height: 120px;
+    width: 100%;
+
+}
+body{
+    margin:0%;
+}
+.header-image{
+    background-color: rgb(0, 71, 186);
+    width: 149px;
+    height:39px;
+    position: absolute;
+    left: 18%;
+    top:40px;
+}
+.flex-container{
+    width:400px;
+    display: flex;
+    flex-direction: row;
+    background-color: rebeccapurple;
+    justify-content: space-evenly;
+    position: absolute;
+    left: 30%;
+    top: 60px;
+    background-color:rgb(0, 71, 186);
+    color: white;
+    font-size: 18px;
+
+}
+.flex-2{
+    width:8%;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(0, 71, 186);
+    color:white;
+    position:absolute;
+    right: 15%;
+    top: 60px;
+    justify-content: space-evenly;
+
+}
+.share-image{
+    width: 15px;
+    height: 11px;
+    color: white;
+    
+}
+.share-button{
+color:white;
+}
+.image-button{
+    background-color:  rgb(0, 71, 186);
+    border-radius: 30px;
+    border-color: white;
+
+}
+.button-en{
+    background-color: rgb(0, 71, 186);
+    color: white;
+    border-radius: 60%;
+    border:none;
+    border-color:whitesmoke;
+    border-style: solid;
+    
+}
+.background-image{
+    width:100%;
+}
+.bottle-image{
+    height:800px;
+    width:690px;
+    position:absolute;
+    top:15%;
+    left:50px;
+
+}
+.inside-image{
+    display: flex;
+    flex-direction: row;
+}
+.word-image{
+    height: 200px;
+    width: 600px;
+    position:absolute;
+    right:150px;
+    top: 325px;
+}
+.background-button1
+{
+    background-color: transparent;
+   width:190px;
+   height: 45px;
+   position:absolute;
+   right:460px;
+   top:535px;
+   border-radius: 6px;
+   border-color:rgb(0, 71, 186);
+   color:rgb(0, 71, 186);
+   font-weight:100;
+
+
+}
+.background-button2
+{
+    background-color: transparent;
+    height:45px;
+    width:190px;
+    position:absolute;
+    right:250px;
+    top:535px;
+    border-radius: 6px;
+   border-color:rgb(0, 71, 186);
+   color:rgb(0, 71, 186);
+   font-weight:100;
+
+}
+.background-button1:hover{
+    background-color: rgb(0, 71, 186);
+    color: white;
+}
+
+.background-button2:hover{
+    background-color: rgb(0, 71, 186);
+    color:white;
+}
+.leftflex-footer
+{
+    position:absolute;
+    top: 911px;
+    background-color: white;
+    height: 315px;
+    width:75%;
+}
+.leftsubflex-footer
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color:white;
+    width:600px;
+    height:160px;
+    position: absolute;
+    left:236px;
+    top:62px;
+
+}
+
+.flex-footer1
+{
+    display: flex;
+    flex-direction:column;
+    justify-content: space-evenly;
+    color: rgb(0, 71, 186);
+
+}
+.flex-footer2
+{
+    display: flex;
+    flex-direction:column;
+    color: rgb(0, 71, 186);
+    justify-content: space-evenly;
+
+}
+.flex-footer3
+{
+    display: flex;
+    flex-direction:column;
+    color: rgb(0, 71, 186);
+    justify-content: space-evenly;
+
+
+}
+.right-flexfooter{
+    background-color:white;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top:911px;
+    right:0%;
+    height: 315px;
+    width:25%;
+    display: flex;
+    flex-direction: row;;
+
+}
+.rightlogo-flexfooter{
+    height:50px;
+    width:100px;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    position:absolute;
+    top:25%;
+    right:65%;
+    justify-content: space-evenly;
+}
+.facebook-img{
+height:25px;
+width:25px;
+}
+
+.twitter-img{
+    height:25px;
+    width:25px;
+}
+.insta-img{
+    height:25px;
+    width:25px;
+}
+.aquafinalogo{
+    height: 100px;
+    width:50px;
+    position: absolute;
+    top:40%;
+    right:80%;
+}
+.aquaimg
+{
+    height: 100px;
+    width:100px;
+}
+.footer-description
+{
+    position:absolute;
+    bottom:0%;
+    right:1%;
+    height:70px;
+    color: blue;
+    background-color: white;
+}
+.trademark{
+    font-size: 11px;
+    padding-top: 28px;
+    padding-bottom: 20px;
+    height:5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+
+}
+.copywrite
+{
+    font-size: 11px;
+    padding-top: 28px;
+    padding-bottom: 20px;
+    height:5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    
+}
+.lastword
+{
+    position: absolute;
+    top:1%;
+}
